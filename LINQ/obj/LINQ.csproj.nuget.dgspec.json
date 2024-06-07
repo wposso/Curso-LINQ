@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soporte MPOS\\source\\repos\\LINQ\\LINQ\\LINQ.csproj": {}
+    "C:\\Users\\soporte MPOS\\Source\\Repos\\Curso-LINQ\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soporte MPOS\\source\\repos\\LINQ\\LINQ\\LINQ.csproj": {
+    "C:\\Users\\soporte MPOS\\Source\\Repos\\Curso-LINQ\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soporte MPOS\\source\\repos\\LINQ\\LINQ\\LINQ.csproj",
+        "projectUniqueName": "C:\\Users\\soporte MPOS\\Source\\Repos\\Curso-LINQ\\LINQ\\LINQ.csproj",
         "projectName": "LINQ",
-        "projectPath": "C:\\Users\\soporte MPOS\\source\\repos\\LINQ\\LINQ\\LINQ.csproj",
+        "projectPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\Curso-LINQ\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\soporte MPOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soporte MPOS\\source\\repos\\LINQ\\LINQ\\obj\\",
+        "outputPath": "C:\\Users\\soporte MPOS\\Source\\Repos\\Curso-LINQ\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soporte MPOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
